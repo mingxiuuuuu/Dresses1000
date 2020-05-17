@@ -11,4 +11,4 @@ Access Google Colab notebook for the GAN results using 1000 dress images  via ht
 ![Generated images from 1000 randomly sampled cleaned/processed images](https://github.com/mingxiuuuuu/Dresses1000/blob/master/100%20epochs.pngg)
 
 ## Sample of generated images at 500 epochs
-![Generated images from 1000 randomly sampled cleaned/processed images](https://github.com/mingxiuuuuu/Dresses5000/blob/master/generated%20image_500%20epochs.png)
+![Generated images from 1000 randomly sampled cleaned/processed images](https://github.com/mingxiuuuuu/Dresses1000/blob/master/500%20epochs.png
